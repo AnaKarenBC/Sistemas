@@ -1,1 +1,3 @@
 Este es el archivo índice de la práctica.
+
+Editado para incluir la sección de resultados.
